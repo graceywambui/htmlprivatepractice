@@ -5,3 +5,9 @@ body {
     background-color: blueviolet;
     color: whitesmoke;
 }
+a:visited {
+    color:aqua;
+}
+a:hover, a:active{
+    color: #eee;
+}
